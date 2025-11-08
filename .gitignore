@@ -1,0 +1,4 @@
+# project specific
+checkpoints/
+pretrained_models/
+results/release
